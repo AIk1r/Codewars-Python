@@ -1,5 +1,5 @@
 # Codewars-Python
-CodeWars Solutions (Please leave a star. Thank you)
+Codewars solutions (Please leave a star. Thank you)
 
 I decided to collect my approaches to solving problems here. I would appreciate any correction/criticism.
 
